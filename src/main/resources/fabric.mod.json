@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Zeetheer/Coins"
 	},
 	"license": "MIT License",
 	"icon": "assets/coins/icon.png",

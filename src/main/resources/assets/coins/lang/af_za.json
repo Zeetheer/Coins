@@ -1,0 +1,17 @@
+{
+  "item.coins.stone_coin": "Klip Muntstuk",
+  "item.coins.deepslate_coin": "Leisteen Muntstuk",
+  "item.coins.netherrack_coin": "Netherrack Muntstuk",
+  "item.coins.iron_coin" : "Yster Muntstuk",
+  "item.coins.coal_coin": "Steenkool Muntstuk",
+  "item.coins.copper_coin": "Koper Muntstuk",
+  "item.coins.lapis_lazuli_coin": "Lasuur Muntstuk",
+  "item.coins.redstone_coin": "Rooisteen Muntstuk",
+  "item.coins.gold_coin": "Goud Muntstuk",
+  "item.coins.diamond_coin": "Diamant Muntstuk",
+  "item.coins.emerald_coin": "Smaraggroen Muntstuk",
+  "item.coins.nether_quartz_coin": "Nether Kwarts Muntstuk",
+  "item.coins.netherite_coin": "Netheritiese Muntstuk",
+
+  "itemGroup.coin": "Munte"
+}

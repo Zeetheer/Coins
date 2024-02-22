@@ -1,0 +1,17 @@
+{
+  "item.coins.stone_coin": "عملة حجرية",
+  "item.coins.deepslate_coin": "عملة حجر عميق",
+  "item.coins.netherrack_coin": "عملة نذرراك",
+  "item.coins.iron_coin" : "عملة حديدية",
+  "item.coins.coal_coin": "عملة الفحم",
+  "item.coins.copper_coin": "عملة نحاسية",
+  "item.coins.lapis_lazuli_coin": "عملة لازورد",
+  "item.coins.redstone_coin": "عملة ريدستون",
+  "item.coins.gold_coin": "عملة ذهبية",
+  "item.coins.diamond_coin": "عملة الماس",
+  "item.coins.emerald_coin": "عملة الزمرد",
+  "item.coins.nether_quartz_coin": "عملة كوارتز النذر",
+  "item.coins.netherite_coin": "عملة نذرايت",
+
+  "itemGroup.coin": "عملة"
+}

@@ -1,0 +1,17 @@
+{
+  "item.coins.stone_coin": "ストーンコイン",
+  "item.coins.deepslate_coin": "ディープスレートコイン",
+  "item.coins.netherrack_coin": "ネザーラックコイン",
+  "item.coins.iron_coin" : "鉄のコイン",
+  "item.coins.coal_coin": "石炭コイン",
+  "item.coins.copper_coin": "銅貨",
+  "item.coins.lapis_lazuli_coin": "ラピスラズリのコイン",
+  "item.coins.redstone_coin": "レッドストーンコイン",
+  "item.coins.gold_coin": "金貨",
+  "item.coins.diamond_coin": "ダイヤモンドコイン",
+  "item.coins.emerald_coin": "エメラルドコイン",
+  "item.coins.nether_quartz_coin": "ネザークォーツコイン",
+  "item.coins.netherite_coin": "ネザライトコイン",
+
+  "itemGroup.coin": "コイン"
+}

@@ -1,0 +1,17 @@
+{
+  "item.coins.stone_coin": "Owó Okuta",
+  "item.coins.deepslate_coin": "Owó Deepslate",
+  "item.coins.netherrack_coin": "Owó Netherrack",
+  "item.coins.iron_coin" : "Owó Irin",
+  "item.coins.coal_coin": "Owó Edu",
+  "item.coins.copper_coin": "Eyo Ejò",
+  "item.coins.lapis_lazuli_coin": "Owó Lapis Lazuli",
+  "item.coins.redstone_coin": "Owó Redstone",
+  "item.coins.gold_coin": "Owó goolu",
+  "item.coins.diamond_coin": "Owó Diamond",
+  "item.coins.emerald_coin": "Owó Emerald",
+  "item.coins.nether_quartz_coin": "Owó Nether Quartz",
+  "item.coins.netherite_coin": "Owó Netherite",
+
+  "itemGroup.coin": "Awọn owó"
+}
